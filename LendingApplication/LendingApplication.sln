@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendingApplication", "LendingApplication\LendingApplication.csproj", "{86D29E53-8FB7-4811-BD7E-6D5A62A240A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendingApplication.UnitTests", "LendingApplication.UnitTests\LendingApplication.UnitTests.csproj", "{87859218-3EAB-4BA4-AA84-C83139BBA7A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D29E53-8FB7-4811-BD7E-6D5A62A240A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D29E53-8FB7-4811-BD7E-6D5A62A240A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D29E53-8FB7-4811-BD7E-6D5A62A240A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D29E53-8FB7-4811-BD7E-6D5A62A240A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87859218-3EAB-4BA4-AA84-C83139BBA7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87859218-3EAB-4BA4-AA84-C83139BBA7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87859218-3EAB-4BA4-AA84-C83139BBA7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87859218-3EAB-4BA4-AA84-C83139BBA7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBF5B4E-3140-4A58-BC77-CF09F6F0A270}
+	EndGlobalSection
+EndGlobal
